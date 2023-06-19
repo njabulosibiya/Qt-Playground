@@ -1,5 +1,6 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
+import "qrc:/material/qml/material_library/" as Material
 
 ApplicationWindow {
     id: window
@@ -8,4 +9,8 @@ ApplicationWindow {
     visible: true
 
     title: "Main"
+
+    background: Rectangle {
+        color: Material.Colors.primary_color
+    }
 }

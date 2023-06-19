@@ -2,4 +2,8 @@
     <qresource prefix="/">
         <file>qml/main.qml</file>
     </qresource>
+    <qresource prefix="/material">
+        <file>qml/material_library/Colors.qml</file>
+        <file>qml/material_library/qmldir</file>
+    </qresource>
 </RCC>

@@ -1,0 +1,2 @@
+module ColorModule
+singleton Color 1.0 Colors.qml
