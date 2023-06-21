@@ -1,4 +1,4 @@
-# Qt-Playground
+# Qt-Playground-for-Android
 Just like Qt Playground, Qt Playground for android is as the name suggests, a build specifically for android. It is a test ground for learning, improving & experimenting with the QML programming language and working with android devices as one who is an absolute beginner in both QML and Android development.
 
 ### Check out the Qt Playground Desktop Application
